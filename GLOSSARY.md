@@ -16,3 +16,12 @@ The increase in damage dealt by friendly soldiers within the commander's influen
 
 **Influence radius**:
 The fixed distance around the commander that defines which friendly soldiers receive commander influence.
+
+**Player base**:
+The location friendly soldiers must defend from capture; enemy capture of it loses the battle.
+
+**Enemy base**:
+The location friendly soldiers must capture while the player base remains uncaptured to win the battle.
+
+**Capture**:
+Taking an opposing base through continuous occupation of its area by attacking soldiers without defending soldiers contesting it. An interruption resets capture progress.
