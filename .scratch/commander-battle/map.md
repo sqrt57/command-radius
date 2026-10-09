@@ -26,10 +26,10 @@ Reach a prototype-ready design for one small, playable battle in which the playe
 - [How do terrain and obstacles create tactical positioning choices?](issues/05-terrain-and-obstacles.md): Impassable barriers create chokepoints and detours, block melee reach, and allow commander influence through them.
 - [How does the player control commander travel and react to danger?](issues/06-commander-movement-and-input.md): Immediate redirect and Stop, visible shortest traversable routes, rejected invalid destinations, a modest speed advantage over soldiers, and pause without order entry.
 - [What battlefield layout creates competing demands on commander position?](issues/07-battlefield-layout.md): Mirrored two-route battlefield, alternating reinforcement routes, rear reinforcement points, and a shared central cross-passage; separated fights require commander relocation.
+- [What encounter scale keeps both routes active and commander choices readable?](issues/08-encounter-scale-and-forces.md): Six starting soldiers per side, three-soldier reinforcements every 20 seconds alternating routes, meaningful commander travel times, and small local fights without an initial population cap.
 
 ## Not yet specified
 
-- Parameters and tuning: discover which quantities matter, and how to make positioning choices noticeable without predetermining a best strategy.
 - The smallest representative encounter and the observations that would show whether commander positioning is fun.
 - Prototype presentation and technical medium, once the behavior to test is clear.
 
