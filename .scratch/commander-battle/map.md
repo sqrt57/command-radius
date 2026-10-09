@@ -21,6 +21,7 @@ Reach a prototype-ready design for one small, playable battle in which the playe
 
 - [What makes commander influence worth relocating for?](issues/01-commander-influence.md): Local damage support builds while stationary and resets to baseline on movement; changing tactical needs motivate relocation.
 - [What is the player trying to achieve in one battle?](issues/02-battle-objective.md): Capture the single enemy base while preventing capture of the player base, using symmetric occupation rules; target roughly 10 minutes without a deadline.
+- [How do autonomous soldiers make commander influence matter?](issues/03-autonomous-soldiers.md): Autonomous melee soldiers follow army-wide Attack / Defend stances, protect bounded defense areas, and receive recurring reinforcements from separate, invulnerable points.
 
 ## Not yet specified
 

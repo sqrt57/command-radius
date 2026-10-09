@@ -23,5 +23,14 @@ The location friendly soldiers must defend from capture; enemy capture of it los
 **Enemy base**:
 The location friendly soldiers must capture while the player base remains uncaptured to win the battle.
 
+**Reinforcement point**:
+A location where new soldiers enter the battle, distinct from the base their side must defend.
+
+**Battle stance**:
+The army-wide intent that guides autonomous soldiers: Attack advances toward the opposing base, while Defend returns to guard their own base. Soldiers choose their own movement and combat targets within that intent.
+
+**Defense area**:
+The visibly marked area around a base where soldiers respond to threats against that base. It is larger than the capture area and bounds defenders' pursuit.
+
 **Capture**:
 Taking an opposing base through continuous occupation of its area by attacking soldiers without defending soldiers contesting it. An interruption resets capture progress.
