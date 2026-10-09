@@ -37,3 +37,6 @@ Taking an opposing base through continuous occupation of its area by attacking s
 
 **Barrier**:
 An impassable battlefield obstacle that blocks commander and soldier travel and melee reach, but does not block commander influence.
+
+**Cross-passage**:
+A shared opening connecting battlefield routes sideways to the usual direction of advance and retreat, accessible to commanders and soldiers alike.
