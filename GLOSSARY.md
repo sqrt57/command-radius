@@ -5,7 +5,7 @@ A small-scale tactics game centered on influencing an autonomous battle through 
 ## Language
 
 **Commander**:
-The player-controlled entity whose position is the player's main means of influencing a battle.
+The vulnerable, player-controlled support entity whose position is the player's main means of influencing a battle.
 _Avoid_: Player entity
 
 **Soldier**:
