@@ -29,10 +29,11 @@ Reach a prototype-ready design for one small, playable battle in which the playe
 - [What encounter scale keeps both routes active and commander choices readable?](issues/08-encounter-scale-and-forces.md): Six starting soldiers per side, three-soldier reinforcements every 20 seconds alternating routes, meaningful commander travel times, and small local fights without an initial population cap.
 - [What must the player see to make informed commander-positioning decisions?](issues/09-battle-readability.md): Fixed whole-battle view, visible influence recipients and buildup, health and recovery feedback, base boundaries and capture states, stance and home-threat indicators, and explicit movement, Stop, and pause controls.
 - [What initial tuning makes commander relocation consequential and recoverable?](issues/10-initial-battle-tuning.md): Virtual-meter combat, influence, movement, recovery, and capture baselines make relocation consequential; timely saves require friendly defenders, with explicit tuning diagnostics.
+- [What representative encounter and observations will test the commander-positioning core loop?](issues/11-representative-encounter-evaluation.md): Three comparable normal-battle play styles, targeted starts for missing coverage, player explanations, and provisional evidence-based verdicts test positioning, recovery, readability, and pacing.
 
 ## Not yet specified
 
-- Prototype presentation and technical medium, once the behavior to test is clear.
+No remaining fog is currently identified; the prototype presentation and technical medium question is now a decision ticket.
 
 ## Out of scope
 
