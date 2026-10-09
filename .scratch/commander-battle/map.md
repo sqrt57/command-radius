@@ -27,6 +27,7 @@ Reach a prototype-ready design for one small, playable battle in which the playe
 - [How does the player control commander travel and react to danger?](issues/06-commander-movement-and-input.md): Immediate redirect and Stop, visible shortest traversable routes, rejected invalid destinations, a modest speed advantage over soldiers, and pause without order entry.
 - [What battlefield layout creates competing demands on commander position?](issues/07-battlefield-layout.md): Mirrored two-route battlefield, alternating reinforcement routes, rear reinforcement points, and a shared central cross-passage; separated fights require commander relocation.
 - [What encounter scale keeps both routes active and commander choices readable?](issues/08-encounter-scale-and-forces.md): Six starting soldiers per side, three-soldier reinforcements every 20 seconds alternating routes, meaningful commander travel times, and small local fights without an initial population cap.
+- [What must the player see to make informed commander-positioning decisions?](issues/09-battle-readability.md): Fixed whole-battle view, visible influence recipients and buildup, health and recovery feedback, base boundaries and capture states, stance and home-threat indicators, and explicit movement, Stop, and pause controls.
 
 ## Not yet specified
 
