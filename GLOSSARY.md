@@ -12,4 +12,7 @@ _Avoid_: Player entity
 An autonomous combatant that participates in the battle rather than receiving direct movement orders from the player.
 
 **Commander influence**:
-The effect of the commander's presence on the battle. Whether it applies while moving, while stationary, or changes with time spent stationary is still to be decided.
+The increase in damage dealt by friendly soldiers within the commander's influence radius. Its strength belongs to the commander, remains active during travel, and builds while stationary.
+
+**Influence radius**:
+The fixed distance around the commander that defines which friendly soldiers receive commander influence.
