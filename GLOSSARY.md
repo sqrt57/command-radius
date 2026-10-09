@@ -34,3 +34,6 @@ The visibly marked area around a base where soldiers respond to threats against 
 
 **Capture**:
 Taking an opposing base through continuous occupation of its area by attacking soldiers without defending soldiers contesting it. An interruption resets capture progress.
+
+**Barrier**:
+An impassable battlefield obstacle that blocks commander and soldier travel and melee reach, but does not block commander influence.

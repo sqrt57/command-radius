@@ -3,7 +3,7 @@
 Map: [Find the design for a commander-positioning battle](../map.md)
 Labels: wayfinder:grilling
 Type: grilling
-Status: open
+Status: resolved
 Blocked by: 02, 03, 04
 
 ## Question
@@ -15,3 +15,15 @@ Which minimal terrain and obstacle rules should the small battle use to create t
 The user confirmed that terrain and obstacles are part of the battle and provide additional tactical urgencies. Decide what they affect: commander and soldier travel, combat, and whether commander influence reaches friendly soldiers across obstacles within its radius. Choose only the effects needed for the one-battle design.
 
 Test supporting soldiers across a barrier, taking a detour to a threatened fight, and choosing between a strong support position and access to another area. Specify observable rules; leave exact battlefield layout and numerical tuning for later.
+
+## Answer
+
+The user confirmed all three terrain rules:
+
+- The first battle uses simple impassable barriers with openings. Barriers constrain commander and soldier movement alike, creating chokepoints and detours. Movement-slowing terrain, elevation, and destructible obstacles are deferred.
+- Commander influence passes through barriers. Friendly soldiers within the influence radius receive support regardless of intervening barriers; reaching them physically may still require a detour.
+- Melee attacks require unobstructed reach. Opponents cannot damage one another through barriers, even when their distance is within melee range; they must move around the barrier to fight.
+
+These rules allow the commander to support a fight from across a barrier while trading that support position against access to another area. A threatened fight can require a detour for the commander and soldiers, and openings concentrate encounters without introducing additional terrain combat modifiers.
+
+Exact barrier placement, openings, route lengths, and battlefield geometry remain for encounter design. Commander route selection and input behavior remain in [How does the player control commander travel and react to danger?](06-commander-movement-and-input.md).
