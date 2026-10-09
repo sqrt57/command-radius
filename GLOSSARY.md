@@ -40,3 +40,6 @@ An impassable battlefield obstacle that blocks commander and soldier travel and 
 
 **Cross-passage**:
 A shared opening connecting battlefield routes sideways to the usual direction of advance and retreat, accessible to commanders and soldiers alike.
+
+**Virtual meter**:
+The shared unit of battlefield distance, independent of how large the battlefield appears on screen.

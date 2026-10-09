@@ -28,10 +28,10 @@ Reach a prototype-ready design for one small, playable battle in which the playe
 - [What battlefield layout creates competing demands on commander position?](issues/07-battlefield-layout.md): Mirrored two-route battlefield, alternating reinforcement routes, rear reinforcement points, and a shared central cross-passage; separated fights require commander relocation.
 - [What encounter scale keeps both routes active and commander choices readable?](issues/08-encounter-scale-and-forces.md): Six starting soldiers per side, three-soldier reinforcements every 20 seconds alternating routes, meaningful commander travel times, and small local fights without an initial population cap.
 - [What must the player see to make informed commander-positioning decisions?](issues/09-battle-readability.md): Fixed whole-battle view, visible influence recipients and buildup, health and recovery feedback, base boundaries and capture states, stance and home-threat indicators, and explicit movement, Stop, and pause controls.
+- [What initial tuning makes commander relocation consequential and recoverable?](issues/10-initial-battle-tuning.md): Virtual-meter combat, influence, movement, recovery, and capture baselines make relocation consequential; timely saves require friendly defenders, with explicit tuning diagnostics.
 
 ## Not yet specified
 
-- The smallest representative encounter and the observations that would show whether commander positioning is fun.
 - Prototype presentation and technical medium, once the behavior to test is clear.
 
 ## Out of scope
