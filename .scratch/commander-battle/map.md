@@ -30,10 +30,11 @@ Reach a prototype-ready design for one small, playable battle in which the playe
 - [What must the player see to make informed commander-positioning decisions?](issues/09-battle-readability.md): Fixed whole-battle view, visible influence recipients and buildup, health and recovery feedback, base boundaries and capture states, stance and home-threat indicators, and explicit movement, Stop, and pause controls.
 - [What initial tuning makes commander relocation consequential and recoverable?](issues/10-initial-battle-tuning.md): Virtual-meter combat, influence, movement, recovery, and capture baselines make relocation consequential; timely saves require friendly defenders, with explicit tuning diagnostics.
 - [What representative encounter and observations will test the commander-positioning core loop?](issues/11-representative-encounter-evaluation.md): Three comparable normal-battle play styles, targeted starts for missing coverage, player explanations, and provisional evidence-based verdicts test positioning, recovery, readability, and pacing.
+- [What presentation and technical medium will make the battle prototype easy to build and evaluate?](issues/12-prototype-presentation-and-medium.md): Desktop Chromium prototype using TypeScript, SVG, and HTML, with separate simulation, repeatable starts, configuration-based tuning, read-only state inspection, and Markdown evaluation summaries.
 
 ## Not yet specified
 
-No remaining fog is currently identified; the prototype presentation and technical medium question is now a decision ticket.
+No remaining fog or open decision tickets. The prototype-ready design destination is reached; the map is complete and ready for implementation handoff.
 
 ## Out of scope
 
